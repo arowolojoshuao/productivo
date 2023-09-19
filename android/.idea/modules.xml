@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1885668545/android.file_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/1885668545/android.file_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/55170706/android.flutter_inappwebview.iml" filepath="$PROJECT_DIR$/.idea/modules/55170706/android.flutter_inappwebview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/123541652/android.flutter_keyboard_visibility.iml" filepath="$PROJECT_DIR$/.idea/modules/123541652/android.flutter_keyboard_visibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/848201216/android.flutter_plugin_android_lifecycle.iml" filepath="$PROJECT_DIR$/.idea/modules/848201216/android.flutter_plugin_android_lifecycle.iml" />
+    </modules>
+  </component>
+</project>
